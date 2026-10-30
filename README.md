@@ -39,12 +39,6 @@
 
 [View all merged PRs →](https://github.com/search?q=is%3Apr+is%3Amerged+author%3Acarlszk&type=pullrequests)
 
-### 📚 Experiments & learning
-
-| Repository | Focus |
-| --- | --- |
-| [NLP_Final_Project](https://github.com/carlszk/NLP_Final_Project) | CSC5051 自然语言处理课程项目代码（Fork） |
-
 ### ⚙️ Languages & tools
 
 <p>
